@@ -14,6 +14,7 @@ function App() {
       bgcolor: 'background.paper',
       color: 'text.primary',
     }}>
+      TEST
       <InputTodo />
       <TodoList />
     </Box>
